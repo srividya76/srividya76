@@ -8,6 +8,7 @@ Most of my work is hands-on:
 What I work on
 
 🧠 AI Agents: single-agent, multi-agent, MCP-based, browser agents, voice agents, local agents
+Agent Evals
 
 About Me
 🎯 Senior AI Product Manager for OneTru Platform at TransUnion
