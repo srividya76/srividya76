@@ -5,6 +5,7 @@ This repository contains my work on AI evaluation frameworks, rubrics, and pract
 ## Articles
 
 - [How Do You Know Your AI Agent Is Any Good? Start Here](articles/how-do-you-know-your-ai-agent-is-any-good-start-here.md)
+- [How to Design an Evaluation Rubric for a Text-to-SQL Agent](articles/how-to-design-an-evaluation-rubric-for-a-text-to-sql-agent.md)
 
 ## Published versions
 
