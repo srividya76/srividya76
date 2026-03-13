@@ -5,10 +5,10 @@ This repository contains my work on AI evaluation frameworks, rubrics, golden da
 
 ## Articles
 
-- [How Do You Know Your AI Agent Is Any Good? Start Here](articles/how-do-you-know-your-ai-agent-is-any-good-start-here.md)
-- [How to Design an Evaluation Rubric for a Text-to-SQL Agent](articles/how-to-design-an-evaluation-rubric-for-a-text-to-sql-agent.md)
-- [Building a Golden Dataset for Your Text-to-SQL Agent](articles/building-a-golden-dataset-for-your-text-to-sql-agent.md)
-- [Turn Your Text-to-SQL Evaluation into a CI/CD Gate](articles/turn-your-text-to-sql-evaluation-into-a-ci-cd-gate.md)
+- [How Do You Know Your AI Agent Is Any Good? Start Here](how-do-you-know-your-ai-agent-is-any-good-start-here.md)
+- [How to Design an Evaluation Rubric for a Text-to-SQL Agent](how-to-design-an-evaluation-rubric-for-a-text-to-sql-agent.md)
+- [Building a Golden Dataset for Your Text-to-SQL Agent](building-a-golden-dataset-for-your-text-to-sql-agent.md)
+- [Turn Your Text-to-SQL Evaluation into a CI/CD Gate](turn-your-text-to-sql-evaluation-into-a-ci-cd-gate.md)
 
 ## Published versions
 
