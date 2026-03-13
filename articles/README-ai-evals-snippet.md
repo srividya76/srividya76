@@ -1,11 +1,14 @@
+
 # AI Evaluation Work
 
-This repository contains my work on AI evaluation frameworks, rubrics, and practical approaches for assessing agent quality in real-world systems.
+This repository contains my work on AI evaluation frameworks, rubrics, golden datasets, and practical delivery patterns for production-grade AI agents, with a strong focus on text-to-SQL evaluation.
 
 ## Articles
 
 - [How Do You Know Your AI Agent Is Any Good? Start Here](articles/how-do-you-know-your-ai-agent-is-any-good-start-here.md)
 - [How to Design an Evaluation Rubric for a Text-to-SQL Agent](articles/how-to-design-an-evaluation-rubric-for-a-text-to-sql-agent.md)
+- [Building a Golden Dataset for Your Text-to-SQL Agent](articles/building-a-golden-dataset-for-your-text-to-sql-agent.md)
+- [Turn Your Text-to-SQL Evaluation into a CI/CD Gate](articles/turn-your-text-to-sql-evaluation-into-a-ci-cd-gate.md)
 
 ## Published versions
 
@@ -14,12 +17,23 @@ This repository contains my work on AI evaluation frameworks, rubrics, and pract
 ## What this repository covers
 
 - Foundations of AI agent evaluation
-- Evaluation rubric design
-- Human review frameworks
-- Golden datasets and regression checks
-- Continuous evaluation after model upgrades
-- Text-to-SQL evaluation concepts
+- Evaluation rubric design for text-to-SQL
+- Golden dataset design and expansion
+- Robustness, safety, and permission-aware evaluation
+- Regression testing and release promotion logic
+- CI/CD gating for AI agents
+- Practical evaluation workflows for production systems
 
-## Why this repo exists
+## Repository structure
 
-Substack is where I publish the narrative version of my ideas. This GitHub repository is the technical companion space where I organize articles, frameworks, examples, and supporting assets in a reusable format.
+```text
+.
+├── README.md
+├── articles/
+│   ├── how-do-you-know-your-ai-agent-is-any-good-start-here.md
+│   ├── how-to-design-an-evaluation-rubric-for-a-text-to-sql-agent.md
+│   ├── building-a-golden-dataset-for-your-text-to-sql-agent.md
+│   └── turn-your-text-to-sql-evaluation-into-a-ci-cd-gate.md
+├── images/
+├── notebooks/
+└── evals/
