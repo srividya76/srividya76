@@ -1,7 +1,4 @@
 
-## 2) `articles/turn-your-text-to-sql-evaluation-into-a-ci-cd-gate.md`
-
-```markdown
 # Turn Your Text-to-SQL Evaluation into a CI/CD Gate
 
 **Subtitle:** How to wire your rubric and golden dataset into an automated, no-regressions pipeline  
